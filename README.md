@@ -40,3 +40,7 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 #### Programas
 - **Archivo:** `IMC.java`
 - **Descripción:** IMC calcula el IMC basado en el peso y la altura ingresados. programaIMC solicita estos datos y muestra el resultado con una evaluación de la condición física del usuario.
+
+#### conversor_moneda
+- **Archivo:** `moneda`
+- **Descripción:** Este programa realiza una conversión de tres monedas (Quetzales , dolares, pesos mexicanos, ) y mediante ingresar una cifra en la opcion requerida el programa hace la conversión correspondieste.
