@@ -6,6 +6,7 @@ import Farenheit_Celsius.Celsius;
 import Calculadora_Edad.Calculadora_edad;
 import Lista.ListaDeCompras;
 import java.util.Scanner;
+import conversor_moneda.moneda;
 
 
 public class Main {
@@ -46,10 +47,9 @@ public class Main {
                     ListaDeCompras.programa();
                     break;
                 case 7:
-                    System.out.println("Opcion 7");
+                    moneda.programa();
                     break;
                 case 8:
-                    System.out.println("Opcion 8");
                     break;
                 case 9:
                     System.out.println("Opcion 9");
