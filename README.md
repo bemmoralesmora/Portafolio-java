@@ -12,12 +12,12 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 - **Archivo:** `Main.java`
 - **Descripción:** La función main controla un menú interactivo que muestra mis_metodos y ejecuta programas correspondientes según la selección del usuario. Utiliza un bucle para mantener el menú activo hasta que el usuario elija salir.
 
-#### Calculadora_Edad
+#### Calculadora
 - **Archivo:** `Calculadora_Edad.java`
 - **Descripción:** La clase Calculadora_edad calcula y muestra la edad de una persona en base a la fecha de nacimiento y la fecha actual ingresadas por el usuario.
 
-#### Farenheit_Celcius
-- **Archivo:** `Farenheit_Celcius.java`
+#### conversor
+- **Archivo:** `conversor grados`
 - **Descripción:** La clase ofrece métodos para convertir temperaturas entre Celsius y Fahrenheit, permitiendo al usuario seleccionar la conversión deseada a través de un menú interactivo.
 
 #### Interfaz Gráfica
@@ -33,7 +33,7 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 - **Descripción:**
   Mate permite operaciones matemáticas básicas. Los usuarios seleccionan la operación y proporcionan los números para calcular el resultado.
 
-#### Opciones
+#### Mis_metodos
 - **Archivo:** `ListaOpciones.java`
 - **Descripción:** ListaOpciones muestra un menú de mis_metodos numeradas. Cada opción se presenta en un formato específico para asegurar una presentación ordenada y clara.
 
@@ -44,3 +44,7 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 #### conversor
 - **Archivo:** `moneda`
 - **Descripción:** Este programa realiza una conversión de tres monedas (Quetzales , dolares, pesos mexicanos, ) y mediante ingresar una cifra en la opcion requerida el programa hace la conversión correspondieste.
+
+#### conversor
+- **Archivo:** `Longitudes`
+- **Descripción:** Este programa tiene la funcionalidad de hacer la convercion de metos a kilometros y viseversa
