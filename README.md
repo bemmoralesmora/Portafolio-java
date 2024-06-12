@@ -48,3 +48,7 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 #### conversor
 - **Archivo:** `Longitudes`
 - **Descripción:** Este programa tiene la funcionalidad de hacer la convercion de metos a kilometros y viseversa
+
+#### mis_metodos
+- **Archivo:** `MisMetodos`
+- **Descripción:** limpia la consola despues de cada programa
