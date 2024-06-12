@@ -1,8 +1,8 @@
-package Matemáticas;
+package calculadora;
 
 import java.util.Scanner;
 
-public class Mate {
+public class AritmeticaBasica {
     public static void cargarOperaciones(){
 
         // lista de operaciones disponibles.
@@ -40,16 +40,16 @@ public class Mate {
 
         switch (opcion2){
             case 1:
-                Mate.operacion();
+                AritmeticaBasica.operacion();
                 break;
             case 2:
-                Mate.operacion2();
+                AritmeticaBasica.operacion2();
                 break;
             case 3:
-                Mate.operacion3();
+                AritmeticaBasica.operacion3();
                 break;
             case 4 :
-                Mate.operacion4();
+                AritmeticaBasica.operacion4();
                 break;
         }
 

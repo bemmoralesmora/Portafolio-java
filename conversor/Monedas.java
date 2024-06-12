@@ -1,7 +1,7 @@
-package conversor_moneda;
+package conversor;
 import java.util.Scanner;
 
-public class moneda {
+public class Monedas {
     public static String[] opciones8 = {
             "Quetzales a Dolares", "Dolares a Quetzales",
             "Quetzales a Pesos Mexicanos", "Pesos Mexicanos a Quetzales"

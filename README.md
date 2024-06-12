@@ -10,7 +10,7 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 
 #### Main
 - **Archivo:** `Main.java`
-- **Descripción:** La función main controla un menú interactivo que muestra opciones y ejecuta programas correspondientes según la selección del usuario. Utiliza un bucle para mantener el menú activo hasta que el usuario elija salir.
+- **Descripción:** La función main controla un menú interactivo que muestra mis_metodos y ejecuta programas correspondientes según la selección del usuario. Utiliza un bucle para mantener el menú activo hasta que el usuario elija salir.
 
 #### Calculadora_Edad
 - **Archivo:** `Calculadora_Edad.java`
@@ -24,23 +24,23 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 - **Archivo:** `Banner.java`
 - **Descripción:** Muestra un banner bonito un logo de simbolos con mi nombre.
 
-#### Lista de Compras
+#### lista de Compras
 - **Archivo:** `ListaDeCompras.java`
 - **Descripción:** ListaDeCompras permite crear y gestionar listas de compras. Ofrece funciones para agregar productos y precios, así como para mostrar la lista resultante.
 
-#### Matemáticas
+#### calculadora
 - **Archivo:** `Mate.java`
 - **Descripción:**
   Mate permite operaciones matemáticas básicas. Los usuarios seleccionan la operación y proporcionan los números para calcular el resultado.
 
 #### Opciones
 - **Archivo:** `ListaOpciones.java`
-- **Descripción:** ListaOpciones muestra un menú de opciones numeradas. Cada opción se presenta en un formato específico para asegurar una presentación ordenada y clara.
+- **Descripción:** ListaOpciones muestra un menú de mis_metodos numeradas. Cada opción se presenta en un formato específico para asegurar una presentación ordenada y clara.
 
-#### Programas
+#### IMC
 - **Archivo:** `IMC.java`
 - **Descripción:** IMC calcula el IMC basado en el peso y la altura ingresados. programaIMC solicita estos datos y muestra el resultado con una evaluación de la condición física del usuario.
 
-#### conversor_moneda
+#### conversor
 - **Archivo:** `moneda`
 - **Descripción:** Este programa realiza una conversión de tres monedas (Quetzales , dolares, pesos mexicanos, ) y mediante ingresar una cifra en la opcion requerida el programa hace la conversión correspondieste.

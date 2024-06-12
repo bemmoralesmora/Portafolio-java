@@ -1,10 +1,10 @@
-package opciones;
+package mis_metodos;
 
 public class ListaOpciones {
     public static void cargarOpciones(){
         String [] listaOpciones = {
                 "Calculadora", "IMC",
-                "Grados", "Conversor de unidades",
+                "ConversorGrados", "Conversor de longitudes",
                 "Calculadora de edad", "Lista De Compras",
                 "Conversor Moneda", "opcion_8",
                 "Opcion_9", "Salir",

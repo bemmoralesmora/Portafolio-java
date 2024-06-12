@@ -1,5 +1,4 @@
-package Lista;
-import opciones.ListaOpciones;
+package lista;
 
 import java.util.List;
 import java.util.Scanner;

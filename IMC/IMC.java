@@ -1,6 +1,4 @@
-package Programas;
-
-import javafx.scene.transform.Scale;
+package IMC;
 
 import java.util.Scanner;
 

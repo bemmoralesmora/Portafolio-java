@@ -1,8 +1,8 @@
-package Farenheit_Celsius;
+package conversor;
 
 import java.util.Scanner;
 
-public class Celsius {
+public class ConversorGrados {
     public static void grados(){
 
         String [] listaOpciones2 ={
@@ -32,10 +32,10 @@ public class Celsius {
 
         switch (opcion3){
             case 1:
-                Celsius.progamas();
+                ConversorGrados.progamas();
                 break;
             case 2:
-                Celsius.progamas2();
+                ConversorGrados.progamas2();
                 break;
         }
 

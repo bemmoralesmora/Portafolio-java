@@ -1,12 +1,13 @@
+import conversor.Longitudes;
 import interfaz_grafica.Banner;
-import opciones.ListaOpciones;
-import Programas.IMC;
-import Matemáticas.Mate;
-import Farenheit_Celsius.Celsius;
-import Calculadora_Edad.Calculadora_edad;
-import Lista.ListaDeCompras;
+import mis_metodos.ListaOpciones;
+import IMC.IMC;
+import calculadora.AritmeticaBasica;
+import conversor.ConversorGrados;
+import calculadora.Calculadora_edad;
+import lista.ListaDeCompras;
 import java.util.Scanner;
-import conversor_moneda.moneda;
+import conversor.Monedas;
 
 
 public class Main {
@@ -29,16 +30,16 @@ public class Main {
 
             switch (opcion){
                 case 1:
-                    Mate.cargarOperaciones();
+                    AritmeticaBasica.cargarOperaciones();
                     break;
                 case 2:
                     IMC.programaIMC();
                     break;
                 case 3:
-                    Celsius.grados();
+                    ConversorGrados.grados();
                     break;
                 case 4:
-                    System.out.println("Opcion 4");
+                    Longitudes.cargarOperaciones();
                     break;
                 case 5:
                     Calculadora_edad.ProgramaEdad();
@@ -47,7 +48,7 @@ public class Main {
                     ListaDeCompras.programa();
                     break;
                 case 7:
-                    moneda.programa();
+                    Monedas.programa();
                     break;
                 case 8:
                     break;
