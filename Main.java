@@ -8,6 +8,7 @@ import calculadora.Calculadora_edad;
 import lista.ListaDeCompras;
 import java.util.Scanner;
 import conversor.Monedas;
+import mis_metodos.MisMetodos;
 
 
 public class Main {
@@ -16,9 +17,10 @@ public class Main {
         boolean programa = true;
 
         do{
-
+            MisMetodos.LimpiarConsola();
             Banner.mensaje_1();
             ListaOpciones.cargarOpciones();
+            MisMetodos.impriirLinea();
 
             //Pedir una opcion
             Scanner intOpcion = new Scanner(System.in);
