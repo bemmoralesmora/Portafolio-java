@@ -6,7 +6,7 @@ public class ListaOpciones {
                 "Calculadora", "IMC",
                 "ConversorGrados", "Conversor de longitudes",
                 "Calculadora de edad", "Lista De Compras",
-                "Conversor Moneda", "opcion_8",
+                "Conversor Moneda", "Biblioteca",
                 "Opcion_9", "Salir",
         };
         int columnas = 0;

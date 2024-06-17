@@ -9,16 +9,19 @@ import lista.ListaDeCompras;
 import java.util.Scanner;
 import conversor.Monedas;
 import mis_metodos.MisMetodos;
+import libros.Biblioteca;
+import libros.libro;
 
 
 public class Main {
     public static void main(String[] args) {
 
+        MisMetodos.LimpiarConsola();
+        Banner.mensaje_1();
         boolean programa = true;
 
         do{
-            MisMetodos.LimpiarConsola();
-            Banner.mensaje_1();
+
             ListaOpciones.cargarOpciones();
             MisMetodos.impriirLinea();
 
@@ -53,6 +56,7 @@ public class Main {
                     Monedas.programa();
                     break;
                 case 8:
+                    Biblioteca.programa();
                     break;
                 case 9:
                     System.out.println("Opcion 9");

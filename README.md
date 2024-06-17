@@ -52,3 +52,11 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 #### mis_metodos
 - **Archivo:** `MisMetodos`
 - **Descripción:** limpia la consola despues de cada programa
+
+#### libros
+- **Archivo:** `Biblioteca`
+- **Descripción:** programa que ordena el titulo, autor y fecha donde corresponde usando get set y to
+
+#### Biblioteca
+- **Archivo:** `libro`
+- **Descripción:** 10 libros que segun la clase libro coloca los libros en la biblioteca en un orden especifico
