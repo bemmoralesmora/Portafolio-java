@@ -60,3 +60,15 @@ Cada programa ofrece una funcionalidad específica y útil para diferentes neces
 #### Biblioteca
 - **Archivo:** `libro`
 - **Descripción:** 10 libros que segun la clase libro coloca los libros en la biblioteca en un orden especifico
+
+#### Colegio
+- **Archivo:** `Escuela`
+- **Descripción:** Es un programa que muestra un conjunto de informacion de estudiantes y la almacena e imprime por consola 
+
+#### colegio
+- **Archivo:** `Estudiantes`
+- **Descripción:** Este muestra setters y getters que almacenan la informacion del estudiante como nombre, correo, carrera, edad y solvencia
+
+#### Colegio
+- **Archivo:** `Cursos`
+- **Descripción:** Este muestra setters y getters que almacenan la informacion de cursos como elnombre, categoria y periodo

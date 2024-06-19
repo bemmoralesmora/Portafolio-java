@@ -1,5 +1,4 @@
 package libros;
-import java.util.Scanner;
 
 public class Biblioteca {
 

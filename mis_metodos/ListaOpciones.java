@@ -7,7 +7,7 @@ public class ListaOpciones {
                 "ConversorGrados", "Conversor de longitudes",
                 "Calculadora de edad", "Lista De Compras",
                 "Conversor Moneda", "Biblioteca",
-                "Opcion_9", "Salir",
+                "Colegio", "Salir",
         };
         int columnas = 0;
 

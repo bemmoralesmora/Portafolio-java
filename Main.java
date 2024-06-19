@@ -11,6 +11,7 @@ import conversor.Monedas;
 import mis_metodos.MisMetodos;
 import libros.Biblioteca;
 import libros.libro;
+import colegio.Escuela;
 
 
 public class Main {
@@ -59,7 +60,7 @@ public class Main {
                     Biblioteca.programa();
                     break;
                 case 9:
-                    System.out.println("Opcion 9");
+                    Escuela.programa();
                     break;
                 case 10:
                     programa = false;
