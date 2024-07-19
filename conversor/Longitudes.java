@@ -34,7 +34,7 @@ public class Longitudes {
         //PIDE QUE ELIGA UNA OPCION DE CONVERSION
         Scanner intOpcion2 = new Scanner(System.in);
         System.out.print("[?]: ");
-        int opcion2 = intOpcion2.nextInt();
+        int opcion2 = intOpcion2.   nextInt();
         System.out.println("----------------------------------------------");
 
         switch (opcion2){
